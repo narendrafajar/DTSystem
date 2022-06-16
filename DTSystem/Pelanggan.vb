@@ -21,6 +21,7 @@ Public Class Pelanggan
         TextBox2.Enabled = False
         TextBox3.Enabled = False
         TextBox4.Enabled = False
+        Button1.Visible = False
         Call tampilkanpelanggan()
 
     End Sub
